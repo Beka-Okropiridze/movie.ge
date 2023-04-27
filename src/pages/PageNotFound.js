@@ -5,8 +5,8 @@ import Err from '../images/err.png';
 export const PageNotFound = () => {
 
   useEffect(() => {
-    document.title = `Page not found`
-  })
+    document.title = 'Page not found';
+  });
 
   return (
     <main>
